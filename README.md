@@ -9,5 +9,5 @@ Não é um curso em específico mas sim um compilado de vídeos principalmente d
   - Code review
   - Projects
 
-Para cada vídeo envio um arquivo .md com minhas anotações quanto a aula para registrar o conhecimento adiquirido e para posteriores consultas.
+Para cada vídeo envio um arquivo .md com minhas anotações quanto a aula para registrar o conhecimento adquirido e para posteriores consultas.
 Cada issue representa um vídeo e possui os links referente às aulas.
